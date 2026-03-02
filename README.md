@@ -2,9 +2,11 @@
 
 This repository contains my professional CV.
 
-🧠 Specialization: Deep Learning, Computer Vision, Neural Networks  
-🎓 M.Sc. E-Mobility – FAU Erlangen-Nürnberg, Germany  
-📍 Based in Germany | Open to academic & research roles
+AI & LLM Systems Engineer  
+Building end-to-end AI systems with RAG, structured prompt engineering, and edge deployment.
+
+📍 Based in Germany  
+🎓 M.Sc. E-Mobility (AI) – FAU Erlangen-Nürnberg  
 
 ---
 
