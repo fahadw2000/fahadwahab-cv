@@ -15,4 +15,4 @@ Building end-to-end AI systems with RAG, structured prompt engineering, and edge
 - 🌐 [LinkedIn](https://www.linkedin.com/in/fahadw2000)
 - 📜 [Getting Started with AI on Jetson Nano (NVIDIA)](https://learn.nvidia.com/certificates?id)
 - 📜 [Generative AI with Large Language Models (AWS)](https://coursera.org/share/6449f3fbf9bd1a1a448a3d693681300e)
-- 🧾 [Deep Learning Specialization Certificate](https://www.credly.com/badges/bdf25bd7-35c8-44c8-9a0b-b4fa9c46cb7e/public_url)
+- 📜 [Deep Learning Specialization Certificate](https://www.credly.com/badges/bdf25bd7-35c8-44c8-9a0b-b4fa9c46cb7e/public_url)
